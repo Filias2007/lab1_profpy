@@ -14,4 +14,5 @@
 1. Створення та активація віртуального середовища:
 ```bash
 python -m venv .venv
+source .venv/bin/activate  # На Linux/macOS
 # .venv\Scripts\activate   
